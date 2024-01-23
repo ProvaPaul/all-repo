@@ -1,1 +1,1 @@
-ECHO is on.
+text file for all1 folder
