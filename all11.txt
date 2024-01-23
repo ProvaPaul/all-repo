@@ -4,3 +4,4 @@ edit in newbranch
 new change
 another new change
 second change
+merge conflict for master branch
