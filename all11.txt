@@ -1,7 +1,8 @@
 text file for all1 folder
 changing in github
 edit in newbranch
+for merge conflict 
 new change
 another new change
 second change
-merge conflict for master branch
+
